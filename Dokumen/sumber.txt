@@ -1,0 +1,30 @@
+data penjualan komputer :
+https://www.antaranews.com/berita/3481971/idc-ungkap-pasar-pc-alami-kontraksi-29-persen-di-q1-2023
+
+data software bajakan :
+https://teknologi.solopos.com/software-ilegal-begini-cara-microsoft-berantas-software-bajakan-635278
+
+data serangan malware :
+https://news.microsoft.com/id-id/2020/06/26/tingkat-kasus-malware-di-indonesia-tertinggi-di-asia-pasifik-laporan-microsoft-security-endpoint-threat-2019/
+
+sejarah linux :
+https://klc2.kemenkeu.go.id/kms/knowledge/sejarah-dan-perkembangan-linux-ef5980e6/detail/
+
+https://adinusa.id/post/sejarah-linux/
+
+perkembangan linux :
+https://p2ti.uma.ac.id/perkembangan-linux-dari-masa-ke-masa/
+
+https://teknik-komputer-d3.stekom.ac.id/informasi/baca/Perkembangan-Linux-Menuju-Era-Digital-2023/0c8c6f7d345df4db131d4a56a3619386c7c5d7b0
+
+Penggunaan linux
+- https://wiki.ubuntu.com/Education/UbuntuSchools
+
+- https://opensource.com/article/21/5/linux-school-servers
+
+Surat Edaran MENPAN :
+http://imgos-belajarlinux.blogspot.com/2011/08/surat-ederan-menpan.html
+
+Rusia linux : 
+http://news.bbc.co.uk/2/hi/technology/7034828.stm
+
