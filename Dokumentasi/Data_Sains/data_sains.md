@@ -6,12 +6,12 @@ Secara bawaan ubuntu **22.04** sudah tersinstall **python** versi 3.10.12, pada 
 2. Cek apakah pyhton 3.12 sudah ada pada list apt dengan perintah `apt list | grep python3.12`. Berikut adalah gambar 4.14 output dari perintah list apt untuk python3.12 .
    ![apt list](img/img_1.png)
 3. Install python 3.12 dengan perintah `sudo apt install python3.12`. Berikut gambar 4.15 adalah python versi 3.12 yang sudah terinstall.
-   ![apt list](img/img_1.png)
+   ![apt list](img/img_2.png)
 
 ## Installasi Jupyter Lab
 Pada halaman resmi jupyter.org installasi jupyter lab salah satunya dapat menggunakan tool installation python atau pip. Untuk menginstall pip ketikkan perintah `sudo apt install python3-pip`. Kemudian untuk installasi jupyter lab ketikkan perintah `pip install jupyterlab`. Jupyter lab akan terinstall di folder `/home/[user]/.local/bin`, agar bisa diakses secara publik modifikasi file .bashrc jika menggunakan terminal bash dan .zshrc jika menggunakan terminal zsh. Tambahkan kode `export PATH=’/[folder_jupyter_lab]/bin:$PATH` pada baris terakhir. Berikut adalah gambar 4.16 penambahan environment pada terminal bash.
 
-![apt list](img/img_1.png)
+![apt list](img/img_3.png)
 
 Untuk menjalankan jupyter lab ketikkan perintah `jupyter lab` pada terminal. Selanjutnya juga dibutuhkan kernel julia dan R pada jupyter lab untuk keperluan pengolahan data lainnya.
 
