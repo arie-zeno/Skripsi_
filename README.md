@@ -30,8 +30,9 @@ Total 66 Mata Kuliah.
 | 24 | Sistem Operasi | [Sistem Operasi](Dokumentasi/Sistem_Operasi/Sistem_Operasi.md) | <ol><li>Virtual Machine</li><li>Code Editor / IDE</li></ol> |
 | 25 | Pemrograman Dasar 2 | [Pemrograman Dasar 2](Dokumentasi/Pemrograman_Dasar_2/Pemrograman_Dasar_2.md) | <ol><li>Java</li><li>Code Editor / IDE</li></ol> |
 | 26 | Basis Data | [Basis Data](Dokumentasi/Basis_Data/Basis_Data.md) | <ol><li>DBMS</li></ol> |
-| 27 | Pemrosesan Citra Digital | [Pemrosesan Citra Digital](Dokumentasi/Pemrosesan_Citra_Digital/Pemrosesan_Citra_Digital.md) | <ol><li>DBMS</li></ol> |
-
+| 27 | Pemrosesan Citra Digital | [Pemrosesan Citra Digital](Dokumentasi/Pemrosesan_Citra_Digital/Pemrosesan_Citra_Digital.md) | <ol><li>GNU Octave</li></ol> |
+| 28 | Jaringan dan Komunikasi Data | [Jaringan dan Komunikasi Data](Dokumentasi/Jaringan_Dan_Komunikasi_Data/Jaringan_Dan_Komunikasi_Data.md) | <ol><li>Wireshark</li></ol> |
+| 29 | Metodologi Penelitian | [Metodologi Penelitian](Dokumentasi/Metodologi_Penelitian/Metodologi_Penelitian.md) | <ol><li>Office</li><li>Mendeley</li></ol> |
 
 
 
