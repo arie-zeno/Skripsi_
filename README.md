@@ -33,6 +33,12 @@ Total 66 Mata Kuliah.
 | 27 | Pemrosesan Citra Digital | [Pemrosesan Citra Digital](Dokumentasi/Pemrosesan_Citra_Digital/Pemrosesan_Citra_Digital.md) | <ol><li>GNU Octave</li></ol> |
 | 28 | Jaringan dan Komunikasi Data | [Jaringan dan Komunikasi Data](Dokumentasi/Jaringan_Dan_Komunikasi_Data/Jaringan_Dan_Komunikasi_Data.md) | <ol><li>Wireshark</li></ol> |
 | 29 | Metodologi Penelitian | [Metodologi Penelitian](Dokumentasi/Metodologi_Penelitian/Metodologi_Penelitian.md) | <ol><li>Office</li><li>Mendeley</li></ol> |
+| 30 | Pemrograman Perangkat Bergerak | [Pemrograman Perangkat Bergerak](Dokumentasi/Pemrograman_Perangkat_Bergerak/Pemrograman_Perangkat_Bergerak.md) | <ol><li>Android Studio</li></ol> |
+| 31 | Pemrograman Web 2 | [Pemrograman Web 2](Dokumentasi/Pemrograman_Web_2/Pemrograman_Web_2.md) | <ol><li>Code Editor / IDE</li><li>XAMPP</li><li>Composer</li></ol> |
+| 32 | Pengembangan Open Source | [Pengembangan Open Source](Dokumentasi/Pengembangan_Open_Source/Pengembangan_Open_Source.md) | <ol><li>Code Editor / IDE</li><li>XAMPP</li></ol> |
+| 33 | Grafika Komputer | [Grafika Komputer](Dokumentasi/Grafika_Komputer/Grafika_Komputer.md) | <ol><li>Code Editor / IDE</li></ol> |
+| 34 | Sistem Cerdas | [Sistem Cerdas](Dokumentasi/Sistem_Cerdas/Sistem_Cerdas.md) | <ol><li>Python</li><li>Pip Python</li><li>Jupyter Lab</li></ol> |
+| 35 | Kewarganegaraan | [Kewarganegaraan](Dokumentasi/Kewarganegaraan/Kewarganegaraan.md) | <ol><li>Office</li></ol> |
 
 
 
