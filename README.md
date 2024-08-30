@@ -39,9 +39,25 @@ Total 66 Mata Kuliah.
 | 33 | Grafika Komputer | [Grafika Komputer](Dokumentasi/Grafika_Komputer/Grafika_Komputer.md) | <ol><li>Code Editor / IDE</li></ol> |
 | 34 | Sistem Cerdas | [Sistem Cerdas](Dokumentasi/Sistem_Cerdas/Sistem_Cerdas.md) | <ol><li>Python</li><li>Pip Python</li><li>Jupyter Lab</li></ol> |
 | 35 | Kewarganegaraan | [Kewarganegaraan](Dokumentasi/Kewarganegaraan/Kewarganegaraan.md) | <ol><li>Office</li></ol> |
-
-
-
-
-
-
+| 36 | Administrasi Sistem | [Administrasi Sistem](Dokumentasi/Administrasi_Sistem/Administrasi_Sistem.md) | <ol><li>Terminal</li></ol> |
+| 37 | Manajemen Projek | [Manajemen Projek](Dokumentasi/Manajemen_Projek/Manajemen_Projek.md) | <ol><li>Terminal</li></ol> |
+| 38 | Penjaminan Mutu Perangkat Lunak | [Penjaminan Mutu Perangkat Lunak](Dokumentasi/Penjaminan_Mutu_Perangkat_Lunak/Penjaminan_Mutu_Perangkat_Lunak.md) | <ol><li>Terminal</li></ol> |
+| 39 | Proyek Perangkat Lunak | [Proyek Perangkat Lunak](Dokumentasi/Proyek_Perangkat_Lunak/Proyek_Perangkat_Lunak.md) | <ol><li>Terminal</li></ol> |
+| 40 | Rekayasa Perangkat Lunak | [Rekayasa Perangkat Lunak](Dokumentasi/Rekayasa_Perangkat_Lunak/Rekayasa_Perangkat_Lunak.md) | <ol><li>Code Editor / IDE</li></ol> |
+| 41 | Sistem Interaksi | [Sistem Interaksi](Dokumentasi/Sistem_Interaksi/Sistem_Interaksi.md) | <ol><li>Terminal</li></ol> |
+| 42 | Teknik Pengolahan Multimedia | [Teknik Pengolahan Multimedia](Dokumentasi/Teknik_Pengolahan_Media/Teknik_Pengolahan_Media.md) | <ol><li>Desaing Grafis</li></ol> |
+| 43 | Logika Untuk Ilmu Komputer | [Logika Untuk Ilmu Komputer](Dokumentasi/Logika_Untuk_Ilmu_Komputer/Logika_Untuk_Ilmu_Komputer.md) | <ol><li>Office</li></ol> |
+| 44 | Media dan Teknologi Pembelajaran | [Media dan Teknologi Pembelajaran](Dokumentasi/Media_dan_Teknologi_Pembelajaran/Media_dan_Teknologi_Pembelajaran.md) | <ol><li>Office</li></ol> |
+| 45 | Telaah Kurikulum SMK (Disain Intruksional) | [Telaah Kurikulum SMK (Disain Intruksional)](Dokumentasi/Telaah_Kurikulum/Telaah_Kurikulum.md) | <ol><li>Office</li></ol> |
+| 46 | Strategi Belajar Mengajar | [Strategi Belajar Mengajar](Dokumentasi/Strategi_Belajar_Mengajar/Strategi_Belajar_Mengajar.md) | <ol><li>Office</li></ol> |
+| 47 | Evaluasi Pembelajaran | [Evaluasi Pembelajaran](Dokumentasi/Evaluasi_Pembelajaran/Evaluasi_Pembelajaran.md) | <ol><li>Office</li></ol> |
+| 48 | Perencanaan Pembelajaran Ilmu Komputer | [Perencanaan Pembelajaran Ilmu Komputer](Dokumentasi/Perencanaan_Pembelajaran_Ilmu_Komputer/Perencanaan_Pembelajaran_Ilmu_Komputer.md) | <ol><li>Office</li></ol> |
+| 49 | Program Latihan Persekolahan 1 (PLP 1) | [Program Latihan Persekolahan 1 (PLP 1)](Dokumentasi/Program_Latihan_Persekolahan1/Program_Latihan_Persekolahan1.md) | <ol><li>Office</li></ol> |
+| 50 | Program Latihan Persekolahan 2 (PLP 2) | [Program Latihan Persekolahan 2 (PLP 2)](Dokumentasi/Program_Latihan_Persekolahan2/Program_Latihan_Persekolahan2.md) | <ol><li>Office</li></ol> |
+| 60 | Sistem Informasi Pendidikan | [Sistem Informasi Pendidikan](Dokumentasi/Sistem_Informasi_Pendidikan/Sistem_Informasi_Pendidikan.md) | <ol><li>Office</li></ol> |
+| 61 | Komputer Masyarakat | [Komputer Masyarakat](Dokumentasi/Komputer_Masyarakat/Komputer_Masyarakat.md) | <ol><li>Office</li></ol> |
+| 62 | Metode Numerik | [Metode Numerik](Dokumentasi/Metode_Numerik/Metode_Numerik.md) | <ol><li>Office</li></ol> |
+| 63 | Pengantar Lingkungan Lahan Basah | [Pengantar Lingkungan Lahan Basah](Dokumentasi/Pengantar_Lingkungan_Lahan_Basah/Pengantar_Lingkungan_Lahan_Basah.md) | <ol><li>Office</li></ol> |
+| 64 | Pengajaran Berbantuan Komputer | [Pengajaran Berbantuan Komputer](Dokumentasi/Pengajaran_Berbantuan_Komputer/Pengajaran_Berbantuan_Komputer.md) | <ol><li>Office</li></ol> |
+| 65 | Digital Fotografi | [Digital Fotografi](Dokumentasi/Digital_Fotog/Digital_Fotog.md) | <ol><li>Office</li></ol> |
+| 66 | Skripsi | [Skripsi](Dokumentasi/Skripsi/Skripsi.md) | <ol><li>Office</li></ol> |
