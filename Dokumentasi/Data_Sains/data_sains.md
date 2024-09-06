@@ -9,6 +9,20 @@ Secara bawaan ubuntu **22.04** sudah tersinstall **python** versi 3.10.12, pada 
    ![apt list](img/img_2.png)
 
 ## Installasi Jupyter Lab
+Terdapat 2 cara untuk menginstall Jupyter Lab yaitu dengan menggunakan GUI (Graphical User Interface) dan CLI (Command Line Interface).
+
+## Installasi Jupyter Lab Menggunakan GUI
+Pada Ubuntu 22.04 terdapat aplikasi **ubuntu store** yang berfungsi untuk menginstall aplikasi berbasis GUI. Ubuntu store menggunakan repository snap dan apt sehingga cakupan software menjadi lebih luas.
+
+Untuk menginstall software pada **ubuntu store** klik icon pencarian pada pojok kiri atas pada **ubuntu store** kemudian masukkan keyword aplikasi yang ingin di install. Jika ditemukan software yang sesuai akan muncul berupa list nama dan icon software :
+
+![apt list](img/img_9.png)
+
+Pilih software yang sesuai kemudian tekan tombol instal  :
+
+![apt list](img/img_8.png)
+
+## Installasi Jupyter Lab Menggunakan CLI
 Pada halaman resmi jupyter.org installasi jupyter lab salah satunya dapat menggunakan tool installation python atau pip. Untuk menginstall pip ketikkan perintah `sudo apt install python3-pip`. Kemudian untuk installasi jupyter lab ketikkan perintah `pip install jupyterlab`. Jupyter lab akan terinstall di folder `/home/[user]/.local/bin`, agar bisa diakses secara publik modifikasi file .bashrc jika menggunakan terminal bash dan .zshrc jika menggunakan terminal zsh. Tambahkan kode `export PATH=’/[folder_jupyter_lab]/bin:$PATH` pada baris terakhir. Berikut adalah gambar 4.16 penambahan environment pada terminal bash.
 
 ![apt list](img/img_3.png)
@@ -45,6 +59,8 @@ Kemudian install Gophernotes, Gophernotes merupakan kernel golang untuk jupyter.
 Berikut adalah gambar setelah menambahkan kernel golang pada jupyter : 
 
 ![apt list](img/img_7.png)
+
+
 
 
 

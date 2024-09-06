@@ -40,24 +40,33 @@ Total 66 Mata Kuliah.
 | 34 | Sistem Cerdas | [Sistem Cerdas](Dokumentasi/Sistem_Cerdas/Sistem_Cerdas.md) | <ol><li>Python</li><li>Pip Python</li><li>Jupyter Lab</li></ol> |
 | 35 | Kewarganegaraan | [Kewarganegaraan](Dokumentasi/Kewarganegaraan/Kewarganegaraan.md) | <ol><li>Office</li></ol> |
 | 36 | Administrasi Sistem | [Administrasi Sistem](Dokumentasi/Administrasi_Sistem/Administrasi_Sistem.md) | <ol><li>Terminal</li></ol> |
-| 37 | Manajemen Projek | [Manajemen Projek](Dokumentasi/Manajemen_Projek/Manajemen_Projek.md) | <ol><li>Terminal</li></ol> |
-| 38 | Penjaminan Mutu Perangkat Lunak | [Penjaminan Mutu Perangkat Lunak](Dokumentasi/Penjaminan_Mutu_Perangkat_Lunak/Penjaminan_Mutu_Perangkat_Lunak.md) | <ol><li>Terminal</li></ol> |
-| 39 | Proyek Perangkat Lunak | [Proyek Perangkat Lunak](Dokumentasi/Proyek_Perangkat_Lunak/Proyek_Perangkat_Lunak.md) | <ol><li>Terminal</li></ol> |
+| 37 | Manajemen Projek | [Manajemen Projek](Dokumentasi/Manajemen_Projek/Manajemen_Projek.md) | <ol><li>Office</li></ol> |
+| 38 | Penjaminan Mutu Perangkat Lunak | [Penjaminan Mutu Perangkat Lunak](Dokumentasi/Penjaminan_Mutu_Perangkat_Lunak/Penjaminan_Mutu_Perangkat_Lunak.md) | <ol><li>Office</li></ol> |
+| 39 | Proyek Perangkat Lunak | [Proyek Perangkat Lunak](Dokumentasi/Proyek_Perangkat_Lunak/Proyek_Perangkat_Lunak.md) | <ol><li>Code Editor / IDE</li></ol> |
 | 40 | Rekayasa Perangkat Lunak | [Rekayasa Perangkat Lunak](Dokumentasi/Rekayasa_Perangkat_Lunak/Rekayasa_Perangkat_Lunak.md) | <ol><li>Code Editor / IDE</li></ol> |
-| 41 | Sistem Interaksi | [Sistem Interaksi](Dokumentasi/Sistem_Interaksi/Sistem_Interaksi.md) | <ol><li>Terminal</li></ol> |
-| 42 | Teknik Pengolahan Multimedia | [Teknik Pengolahan Multimedia](Dokumentasi/Teknik_Pengolahan_Media/Teknik_Pengolahan_Media.md) | <ol><li>Desaing Grafis</li></ol> |
+| 41 | Sistem Interaksi | [Sistem Interaksi](Dokumentasi/Sistem_Interaksi/Sistem_Interaksi.md) | <ol><li>Office</li></ol> |
+| 42 | Teknik Pengolahan Multimedia | [Teknik Pengolahan Multimedia](Dokumentasi/Teknik_Pengolahan_Media/Teknik_Pengolahan_Media.md) | <ol><li>Desain Grafis</li></ol> |
 | 43 | Logika Untuk Ilmu Komputer | [Logika Untuk Ilmu Komputer](Dokumentasi/Logika_Untuk_Ilmu_Komputer/Logika_Untuk_Ilmu_Komputer.md) | <ol><li>Office</li></ol> |
-| 44 | Media dan Teknologi Pembelajaran | [Media dan Teknologi Pembelajaran](Dokumentasi/Media_dan_Teknologi_Pembelajaran/Media_dan_Teknologi_Pembelajaran.md) | <ol><li>Office</li></ol> |
+| 44 | Media dan Teknologi Pembelajaran | [Media dan Teknologi Pembelajaran](Dokumentasi/Media_dan_Teknologi_Pembelajaran/Media_dan_Teknologi_Pembelajaran.md) | <ol><li>Code Editor / IDE</li></ol> |
 | 45 | Telaah Kurikulum SMK (Disain Intruksional) | [Telaah Kurikulum SMK (Disain Intruksional)](Dokumentasi/Telaah_Kurikulum/Telaah_Kurikulum.md) | <ol><li>Office</li></ol> |
 | 46 | Strategi Belajar Mengajar | [Strategi Belajar Mengajar](Dokumentasi/Strategi_Belajar_Mengajar/Strategi_Belajar_Mengajar.md) | <ol><li>Office</li></ol> |
 | 47 | Evaluasi Pembelajaran | [Evaluasi Pembelajaran](Dokumentasi/Evaluasi_Pembelajaran/Evaluasi_Pembelajaran.md) | <ol><li>Office</li></ol> |
 | 48 | Perencanaan Pembelajaran Ilmu Komputer | [Perencanaan Pembelajaran Ilmu Komputer](Dokumentasi/Perencanaan_Pembelajaran_Ilmu_Komputer/Perencanaan_Pembelajaran_Ilmu_Komputer.md) | <ol><li>Office</li></ol> |
 | 49 | Program Latihan Persekolahan 1 (PLP 1) | [Program Latihan Persekolahan 1 (PLP 1)](Dokumentasi/Program_Latihan_Persekolahan1/Program_Latihan_Persekolahan1.md) | <ol><li>Office</li></ol> |
 | 50 | Program Latihan Persekolahan 2 (PLP 2) | [Program Latihan Persekolahan 2 (PLP 2)](Dokumentasi/Program_Latihan_Persekolahan2/Program_Latihan_Persekolahan2.md) | <ol><li>Office</li></ol> |
-| 60 | Sistem Informasi Pendidikan | [Sistem Informasi Pendidikan](Dokumentasi/Sistem_Informasi_Pendidikan/Sistem_Informasi_Pendidikan.md) | <ol><li>Office</li></ol> |
-| 61 | Komputer Masyarakat | [Komputer Masyarakat](Dokumentasi/Komputer_Masyarakat/Komputer_Masyarakat.md) | <ol><li>Office</li></ol> |
-| 62 | Metode Numerik | [Metode Numerik](Dokumentasi/Metode_Numerik/Metode_Numerik.md) | <ol><li>Office</li></ol> |
-| 63 | Pengantar Lingkungan Lahan Basah | [Pengantar Lingkungan Lahan Basah](Dokumentasi/Pengantar_Lingkungan_Lahan_Basah/Pengantar_Lingkungan_Lahan_Basah.md) | <ol><li>Office</li></ol> |
-| 64 | Pengajaran Berbantuan Komputer | [Pengajaran Berbantuan Komputer](Dokumentasi/Pengajaran_Berbantuan_Komputer/Pengajaran_Berbantuan_Komputer.md) | <ol><li>Office</li></ol> |
-| 65 | Digital Fotografi | [Digital Fotografi](Dokumentasi/Digital_Fotog/Digital_Fotog.md) | <ol><li>Office</li></ol> |
+| 51 | Sistem Informasi Pendidikan | [Sistem Informasi Pendidikan](Dokumentasi/Sistem_Informasi_Pendidikan/Sistem_Informasi_Pendidikan.md) | <ol><li>Office</li></ol> |
+| 52 | Komputer Masyarakat | [Komputer Masyarakat](Dokumentasi/Komputer_Masyarakat/Komputer_Masyarakat.md) | <ol><li>Office</li></ol> |
+| 53 | Metode Numerik | [Metode Numerik](Dokumentasi/Metode_Numerik/Metode_Numerik.md) | <ol><li>Office</li></ol> |
+| 54 | Pengantar Lingkungan Lahan Basah | [Pengantar Lingkungan Lahan Basah](Dokumentasi/Pengantar_Lingkungan_Lahan_Basah/Pengantar_Lingkungan_Lahan_Basah.md) | <ol><li>Office</li></ol> |
+| 55 | Pengajaran Berbantuan Komputer | [Pengajaran Berbantuan Komputer](Dokumentasi/Pengajaran_Berbantuan_Komputer/Pengajaran_Berbantuan_Komputer.md) | <ol><li>Code Editor / IDE</li></ol> |
+| 56 | Digital Fotografi | [Digital Fotografi](Dokumentasi/Digital_Fotog/Digital_Fotog.md) | <ol><li>Office</li></ol> |
+| 57 | Mesin Learning | [Mesin Learning](Dokumentasi/Mesin_Learning/Mesin_Learning.md) | <ol><li>Jupyter</li> <li>R</li> <li>Julia</li> <li>Python</li><li>Pip Python</li></ol>|
+| 58 | Simulasi dan Permodelan | [Simulasi dan Permodelan](Dokumentasi/simulasi_dan_permodelan/simulasi_dan_permodelan.md) | <ol></ol> |
+| 59 | Basic Reading | [Basic Reading](Dokumentasi/basic_reading/basic_reading.md) | <ol></ol> |
+| 60 | Keterampilan Berbicara | [Keterampilan Berbicara](Dokumentasi/keterampilan_berbicara/keterampilan_berbicara.md) | <ol></ol> |
+| 61 | Kriptografi dan Keamanan Informasi | [Kriptografi dan Keamanan Informasi](Dokumentasi/kripto/kripto.md) | <ol><li>Code Editer / IDE</li></ol> |
+| 62 | Pengolahan Bahasa Manusia | [Pengolahan Bahasa Manusia](Dokumentasi/pengolahan_bahasa_manusia/pengolahan_bahasa_manusia.md) |<ol><li>Jupyter</li> <li>R</li> <li>Julia</li> <li>Python</li><li>Pip Python</li></ol> |
+| 63 | Pemrograman Logika | [Pemrograman Logika](Dokumentasi/pemrograman_logika/pemrograman_logika.md) | <ol></ol> |
+| 64 | Sistem Pakar | [Sistem Pakar](Dokumentasi/sistem_pakar/sistem_pakar.md) | <ol></ol> |
+| 65 | Pengantar Akuntansi | [Pengantar Akuntansi](Dokumentasi/pengantar_akuntansi/pengantar_akuntansi.md) | <ol><li>Office</li></ol> |
 | 66 | Skripsi | [Skripsi](Dokumentasi/Skripsi/Skripsi.md) | <ol><li>Office</li></ol> |
