@@ -67,6 +67,6 @@ Setelah menyelesaikan bab ini pembaca diharapkan dapat:
    </center>
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://example.com">Sebelumnya</a>
-  <a href="https://example.com">Selanjutnya</a>
+  <a href="./instalasi_gui_ubuntu_software.md">Sebelumnya</a>
+  <a href="./instalasi_cli_apt.md">Selanjutnya</a>
 </div>

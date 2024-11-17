@@ -18,6 +18,6 @@ Dalam proses instalasi aplikasi di Ubuntu, baik menggunakan Graphical User Inter
 
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://example.com">Sebelumnya</a>
-  <a href="https://example.com">Selanjutnya</a>
+  <a href="./instalasi_ubuntu.md">Sebelumnya</a>
+  <a href="./instalasi_gui_ubuntu_software.md">Selanjutnya</a>
 </div>
