@@ -36,11 +36,11 @@ Ubuntu menggunakan GNOME Desktop Environment sebagai antarmuka grafis default. G
   
 
 
-## Proses Kerja APT:
+<!-- ## Proses Kerja APT:
 <center> 
 
 ![ALur](img/alur_instalasi_linux_.png)
-</center>
+</center> -->
 
 <div style="display: flex; justify-content: space-between;">
   <a href="./instalasi_ubuntu.md">Sebelumnya</a>
