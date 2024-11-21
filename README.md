@@ -58,15 +58,15 @@ Total 66 Mata Kuliah.
 | 52 | Komputer Masyarakat | [Komputer Masyarakat](Dokumentasi/Komputer_Masyarakat/Komputer_Masyarakat.md) | <ol><li>Office</li></ol> |
 | 53 | Metode Numerik | [Metode Numerik](Dokumentasi/Metode_Numerik/Metode_Numerik.md) | <ol><li>Office</li></ol> |
 | 54 | Pengantar Lingkungan Lahan Basah | [Pengantar Lingkungan Lahan Basah](Dokumentasi/Pengantar_Lingkungan_Lahan_Basah/Pengantar_Lingkungan_Lahan_Basah.md) | <ol><li>Office</li></ol> |
-| 55 | Pengajaran Berbantuan Komputer | [Pengajaran Berbantuan Komputer](Dokumentasi/Pengajaran_Berbantuan_Komputer/Pengajaran_Berbantuan_Komputer.md) | <ol><li>Code Editor / IDE</li></ol> |
+| 55 | Pengajaran Berbantuan Komputer | [Pengajaran Berbantuan Komputer](Dokumentasi/Pengajaran_Berbantuan_Komputer/Pengajaran_Berbantuan_Komputer.md) | <ol><li>Office</li></ol> |
 | 56 | Digital Fotografi | [Digital Fotografi](Dokumentasi/Digital_Fotog/Digital_Fotog.md) | <ol><li>Office</li></ol> |
 | 57 | Mesin Learning | [Mesin Learning](Dokumentasi/Mesin_Learning/Mesin_Learning.md) | <ol><li>Jupyter</li> <li>R</li> <li>Julia</li> <li>Python</li><li>Pip Python</li></ol>|
 | 58 | Simulasi dan Permodelan | [Simulasi dan Permodelan](Dokumentasi/simulasi_dan_permodelan/simulasi_dan_permodelan.md) | <ol></ol> |
 | 59 | Basic Reading | [Basic Reading](Dokumentasi/basic_reading/basic_reading.md) | <ol></ol> |
 | 60 | Keterampilan Berbicara | [Keterampilan Berbicara](Dokumentasi/keterampilan_berbicara/keterampilan_berbicara.md) | <ol></ol> |
-| 61 | Kriptografi dan Keamanan Informasi | [Kriptografi dan Keamanan Informasi](Dokumentasi/kripto/kripto.md) | <ol><li>Code Editer / IDE</li></ol> |
+| 61 | Kriptografi dan Keamanan Informasi | [Kriptografi dan Keamanan Informasi](Dokumentasi/kripto/kripto.md) | <ol><li>Python</li></ol> |
 | 62 | Pengolahan Bahasa Manusia | [Pengolahan Bahasa Manusia](Dokumentasi/pengolahan_bahasa_manusia/pengolahan_bahasa_manusia.md) |<ol><li>Jupyter</li> <li>R</li> <li>Julia</li> <li>Python</li><li>Pip Python</li></ol> |
-| 63 | Pemrograman Logika | [Pemrograman Logika](Dokumentasi/pemrograman_logika/pemrograman_logika.md) | <ol></ol> |
+| 63 | Pemrograman Logika | [Pemrograman Logika](Dokumentasi/pemrograman_logika/pemrograman_logika.md) | <ol><li>SWI-Prolog</li></ol> |
 | 64 | Sistem Pakar | [Sistem Pakar](Dokumentasi/sistem_pakar/sistem_pakar.md) | <ol></ol> |
 | 65 | Pengantar Akuntansi | [Pengantar Akuntansi](Dokumentasi/pengantar_akuntansi/pengantar_akuntansi.md) | <ol><li>Office</li></ol> |
 | 66 | Skripsi | [Skripsi](Dokumentasi/Skripsi/Skripsi.md) | <ol><li>Office</li></ol> |

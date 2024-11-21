@@ -1,5 +1,5 @@
-# Mata Kuliah Grafika Komputer
-Pada mata kuliah Grafika Komputer perangkat lunak yang dibutuhkan selama pembelajaran adalah **Code Editor / IDE** .
+# Mata Kuliah Rekayasa Perangkat Lunak
+Pada mata kuliah Rekayasa Perangkat Lunak perangkat lunak yang dibutuhkan selama pembelajaran adalah **Code Editor / IDE** .
 
 
 

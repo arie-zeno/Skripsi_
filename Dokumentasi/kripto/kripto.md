@@ -1,5 +1,5 @@
-# Mata Kuliah Pemrograman Dasar 1
-Pada mata kuliah pemrograman dasar 1 perangkat lunak yang dibutuhkan selama pembelajaran adalah **python**.
+# Mata Kuliah Kriptografi dan Keamanan Informasi
+Pada mata kuliah Kriptografi dan Keamanan Informasi perangkat lunak yang dibutuhkan selama pembelajaran adalah **python**.
  
  ## Installasi Python
  Secara bawaan ubuntu **22.04** sudah tersinstall **python** versi 3.10.12, namun paket seperti pip dan idle-python belum terinstall.

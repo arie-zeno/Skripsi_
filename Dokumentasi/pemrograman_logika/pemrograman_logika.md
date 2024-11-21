@@ -1,16 +1,24 @@
-# Mata Kuliah Pengembangan Open Source
-Pada mata kuliah Pengembangan Open Source perangkat lunak yang dibutuhkan selama pembelajaran adalah **Code Editor / IDE dan XAMPP** .
+# Mata Kuliah Pemrograman Logika
+Pada mata kuliah Pengembangan Pemrograman Logika perangkat lunak yang dibutuhkan selama pembelajaran adalah **SWI-Prolog** .
 
 
 
- ## Installasi Visual Studio Code
- Unduh paket installasi pada halaman [Visual Studio Code](www.code.visualstudio.com). Kemudian install paket tersebut dengan perintah `dpkg -i namafile.deb`, berikut gambar saat installasi  Visual Studio Code :  
- ![idle python](img/img_1.png)
+ ## Installasi SWI-Prolog
+ Kunjungi halaman [flathub.org](http://flathub.org) kemudian pada kolom pencarian masukkan keyword **"SWI-Prolog"**.
+
+ ![prolog](img/img_1.png)
  
- Kemudian berikut adalah gambar dari software visual studio code setelah terinstall :
+ Kemudian masukkan script yang tertera untuk melakukan instalasi SWI-Prolog pada terminal :
 
-![vscode](img/img_2.png)
+![prolog](img/img_2.png)
 
+Tunggu hingga proses selesai, setelah selesai SWI-Prolog dapat ditemukan pada menu ***Applications***.
+
+![prolog](img/img_3.png)
+
+Berikut adalah SWI-Prolog yang sedang berjalan pada sistem operasi Ubuntu :
+
+![prolog](img/img_4.png)
 
 
 

@@ -1,5 +1,5 @@
-# Mata Kuliah Metode Numerik
-Pada mata kuliah Metode Numerik perangkat lunak yang dibutuhkan selama pembelajaran adalah **office**. Secara bawaan ubuntu 22.04 sudah terinsall software libreOffice untuk keperluan pembuatan dokumen. Berikut adalah gambar dari software libreOffice :
+# Mata Kuliah Pengajaran Berbantuan Komputer
+Pada mata kuliah Pengajaran Berbantuan Komputer perangkat lunak yang dibutuhkan selama pembelajaran adalah **office**. Secara bawaan ubuntu 22.04 sudah terinsall software libreOffice untuk keperluan pembuatan dokumen. Berikut adalah gambar dari software libreOffice :
 - LibreOffice Writer (Software pembuat kata)
 ![Writer](img/img_1.png)
 
