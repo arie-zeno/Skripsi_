@@ -40,7 +40,18 @@ Setelah menyelesaikan bab ini pembaca diharapkan dapat:
    Setelah proses selesai, aplikasi siap digunakan. Aplikasi yang telah diinstal dapat ditemukan di menu Applications, atau bisa langsung dibuka melalui terminal dengan mengetik `flatpak install flathub org.godotengine.Godot`.
 
  
- <div style="display: flex; justify-content: space-between;">
-  <a href="https://example.com">Sebelumnya</a>
-  <a href="https://example.com">Selanjutnya</a>
+<div style="display: flex; justify-content: space-between;">
+
+<span>
+
+[Sebelumnya](./instalasi_cli_apt.md) 
+
+</span>
+
+<span>
+
+[Selanjutnya](./instalasi_cli_snap.md) 
+
+</span>
+
 </div>

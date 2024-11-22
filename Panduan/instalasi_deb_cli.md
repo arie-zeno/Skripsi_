@@ -32,7 +32,14 @@ Setelah menyelesaikan bab ini pembaca diharapkan dapat:
    
 
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="./proses_instalasi_aplikasi.md">Sebelumnya</a>
-  <a href="./instalasi_gui_synaptic.md">Selanjutnya</a>
+<div style="display: flex; justify-content: start;">
+
+<span>
+
+[Sebelumnya](./instalasi_deb_gui_gdebi.md) 
+
+</span>
+
+
+
 </div>

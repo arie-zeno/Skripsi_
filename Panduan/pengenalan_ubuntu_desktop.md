@@ -51,6 +51,17 @@ Ubuntu menggunakan GNOME Desktop Environment sebagai antarmuka grafis default. G
 
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="./instalasi_ubuntu.md">Sebelumnya</a>
-  <a href="./instalasi_gui_ubuntu_software.md">Selanjutnya</a>
+
+<span>
+
+[Sebelumnya](./instalasi_ubuntu.md) 
+
+</span>
+
+<span>
+
+[Selanjutnya](./proses_instalasi_aplikasi.md) 
+
+</span>
+
 </div>

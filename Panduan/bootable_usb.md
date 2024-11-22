@@ -25,7 +25,13 @@ Setelah menyelesaikan bab ini pembaca diharapkan dapat:
   
 6. Tunggu hingga proses selesai, dan lepaskan USB setelah flash selesai.
 
- <div style="display: flex; justify-content: space-between;">
-  <a href="https://example.com">Sebelumnya</a>
-  <a href="https://example.com">Selanjutnya</a>
+<div style="display: flex; justify-content: ">
+
+<span>
+
+[Kembali](./instalasi_ubuntu.md) 
+
+</span>
+
+
 </div>

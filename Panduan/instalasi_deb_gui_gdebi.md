@@ -50,6 +50,17 @@ Setelah menyelesaikan bab ini pembaca diharapkan dapat:
 
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="./proses_instalasi_aplikasi.md">Sebelumnya</a>
-  <a href="./instalasi_gui_synaptic.md">Selanjutnya</a>
+
+<span>
+
+[Sebelumnya](./instalasi_deb_gui_ubuntu_software.md) 
+
+</span>
+
+<span>
+
+[Selanjutnya](./instalasi_deb_cli.md) 
+
+</span>
+
 </div>

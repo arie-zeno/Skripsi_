@@ -123,7 +123,7 @@ Sebelum melakukan instalasi, ada beberapa hal yang perlu disiapkan :
 
 <span>
 
-[Selanjutnya](./proses_instalasi_aplikasi.md) 
+[Selanjutnya](./pengenalan_ubuntu_desktop.md) 
 
 </span>
 
